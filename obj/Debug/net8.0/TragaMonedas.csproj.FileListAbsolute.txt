@@ -1,0 +1,14 @@
+C:\Curso C#\Practicas\TragaMonedas\bin\Debug\net8.0\TragaMonedas.exe
+C:\Curso C#\Practicas\TragaMonedas\bin\Debug\net8.0\TragaMonedas.deps.json
+C:\Curso C#\Practicas\TragaMonedas\bin\Debug\net8.0\TragaMonedas.runtimeconfig.json
+C:\Curso C#\Practicas\TragaMonedas\bin\Debug\net8.0\TragaMonedas.dll
+C:\Curso C#\Practicas\TragaMonedas\bin\Debug\net8.0\TragaMonedas.pdb
+C:\Curso C#\Practicas\TragaMonedas\obj\Debug\net8.0\TragaMonedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso C#\Practicas\TragaMonedas\obj\Debug\net8.0\TragaMonedas.AssemblyInfoInputs.cache
+C:\Curso C#\Practicas\TragaMonedas\obj\Debug\net8.0\TragaMonedas.AssemblyInfo.cs
+C:\Curso C#\Practicas\TragaMonedas\obj\Debug\net8.0\TragaMonedas.csproj.CoreCompileInputs.cache
+C:\Curso C#\Practicas\TragaMonedas\obj\Debug\net8.0\TragaMonedas.dll
+C:\Curso C#\Practicas\TragaMonedas\obj\Debug\net8.0\refint\TragaMonedas.dll
+C:\Curso C#\Practicas\TragaMonedas\obj\Debug\net8.0\TragaMonedas.pdb
+C:\Curso C#\Practicas\TragaMonedas\obj\Debug\net8.0\TragaMonedas.genruntimeconfig.cache
+C:\Curso C#\Practicas\TragaMonedas\obj\Debug\net8.0\ref\TragaMonedas.dll
